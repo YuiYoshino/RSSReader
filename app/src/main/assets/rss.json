@@ -1,0 +1,423 @@
+
+{
+"@attributes":{
+"version":"2.0"
+},
+"channel":{
+"language":"ja",
+"copyright":"© Yahoo Japan",
+"pubDate":"Tue, 23 May 2023 02:23:53 GMT",
+"title":" IT - Yahoo!ニュース",
+"link":"https://news.yahoo.co.jp/categories/it?source=rss",
+"description":"Yahoo! JAPANのニュースに掲載されている記事の最新の見出しを提供しています。",
+"image":{
+"title":"Yahoo!ニュース",
+"link":"https://news.yahoo.co.jp/",
+"url":"https://s.yimg.jp/images/news/yjnews_s.gif",
+"width":"101",
+"height":"18"
+},
+"item":[
+{
+"title":"【2023年5月】「炊飯器」売れ筋ランキング＆おすすめ3選　1人暮らしにぴったりなサイズもランクイン(Fav-Log by ITmedia)",
+"link":"https://news.yahoo.co.jp/articles/5a7ead1eccf321afa59ad344b005b5af8a9c225b?source=rss",
+"pubDate":"Tue, 23 May 2023 02:22:26 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000073-it_favlog-000-1-view.jpg?pri=l&w=418&h=450&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/5a7ead1eccf321afa59ad344b005b5af8a9c225b/comments",
+"description":"　日本の食卓に欠かせないほかほかのご飯。毎日おいしいご飯を食べるために、「炊飯器」にこだわっている人も多いのではないでしょうか。 　ひとくちに炊飯器といっても、炊飯容量や機能など特徴はさまざまです。"
+},
+{
+"title":"手のひら決済システム「Amazon One」、メジャーリーグのスタジアムが採用(CNET Japan)",
+"link":"https://news.yahoo.co.jp/articles/26a7ce529e176656d4150e369faff2042410ff4c?source=rss",
+"pubDate":"Tue, 23 May 2023 02:16:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-35204169-cnetj-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/26a7ce529e176656d4150e369faff2042410ff4c/comments",
+"description":"今度野球観戦に行く時は、ビールの代金を払う際に、手のひらをかざすだけで、飲酒可能な年齢であることを証明できるかもしれない。「Amazon One」は年齢認証機能の提供を開始し、メジャーリーグベースボー"
+},
+{
+"title":"Starshipの超強力エンジンから発射台を守る–水冷の新システムをSpaceXが試験(UchuBiz)",
+"link":"https://news.yahoo.co.jp/articles/bf955ed2a195d4a00e8b5a12f9bf8794df00fcf6?source=rss",
+"pubDate":"Tue, 23 May 2023 02:12:53 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000002-uchubiz-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/bf955ed2a195d4a00e8b5a12f9bf8794df00fcf6/comments",
+"description":"Space Exploration Technologies（SpaceX）は5月20日、次世代ロケット「Starship」の発射台に設置する、新しい水冷式システムのテストの様子を公開した。 Rap"
+},
+{
+"title":"東芝テック、複合機専用アプリ「e-BRIDGE Plus for Collastorage」の連携サービスを拡大(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/d6169086f3c78e322c197370b227200afc17d256?source=rss",
+"pubDate":"Tue, 23 May 2023 02:00:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=450&h=450&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/d6169086f3c78e322c197370b227200afc17d256/comments",
+"description":"　東芝テック株式会社は22日、複合機本体とクラウドストレージサービス「Collastorage」の専用連携アプリ「e-BRIDGE Plus for Collastorage」について、連携可能なクラ"
+},
+{
+"title":"リュック用“背中クーラー”登場　手持ちのリュックに組み合わせてヒンヤリ(ITmedia NEWS)",
+"link":"https://news.yahoo.co.jp/articles/01a9b607e76b0a19220626879f7dbba3e7e5bf57?source=rss",
+"pubDate":"Tue, 23 May 2023 01:55:02 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000071-zdn_n-000-1-view.jpg?exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/01a9b607e76b0a19220626879f7dbba3e7e5bf57/comments",
+"description":"　夏場にリュックを背負うと、蒸れて背中が汗だくに――そんな悩みを解決する“リュック用クーラー”「ファンと冷却プレートで背中蒸れとおさらば『ひんやりュック』」（6980円）を、サンコーが5月22日に発売"
+},
+{
+"title":"UQ mobile新料金プランの狙い　楽天モバイルやahamoより高いけどお得？(ITmedia Mobile)",
+"link":"https://news.yahoo.co.jp/articles/041de4ce23454091b95fec05ee5ce8deb9c99346?source=rss",
+"pubDate":"Tue, 23 May 2023 01:30:11 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000068-zdn_m-000-1-view.jpg?pri=l&w=450&h=251&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/041de4ce23454091b95fec05ee5ce8deb9c99346/comments",
+"description":"　既報の通り、KDDIが6月1日からUQ mobileの新料金プランを提供する。 　中でも同社が主力プランとして訴求するのが、月額3278円（税込み、以下同）で20GBのデータ通信と10分かけ放題を"
+},
+{
+"title":"グーグル、洪水予測の対象を80カ国に拡大--7日前から予測を可能に(CNET Japan)",
+"link":"https://news.yahoo.co.jp/articles/b26a0037a3edc088e6ba75f049618a87bffdf405?source=rss",
+"pubDate":"Tue, 23 May 2023 01:26:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-35204163-cnetj-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/b26a0037a3edc088e6ba75f049618a87bffdf405/comments",
+"description":"　人工知能（AI）は、小論文の執筆からビジネスの運営まで、あらゆることをやってくれる。だが、自然災害のリスクを減らすのにも役立っていることをご存知だろうか。 　Googleは、AIを活用した洪水予測"
+},
+{
+"title":"英語記事を「GPT-4」で3行の日本語に　Gunosyが新ニュースサイト(ITmedia NEWS)",
+"link":"https://news.yahoo.co.jp/articles/e546efd0bf98227a8d81aaf6737fd9361c7ff74b?source=rss",
+"pubDate":"Tue, 23 May 2023 01:21:27 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000067-zdn_n-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/e546efd0bf98227a8d81aaf6737fd9361c7ff74b/comments",
+"description":"　ニュースキュレーションサービスを運営するGunosyはこのほど、OpenAIが公開している言語モデル「GPT-4」のAPIを使い、海外のニュース記事を要約して紹介するサービス「NewsPresso」"
+},
+{
+"title":"TOP500、AMD CPU採用スパコンFrontierが性能引き上げ首位堅持。富岳は2位(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/f9b1f416aebb1e950d0863c71febd881f2e331b3?source=rss",
+"pubDate":"Tue, 23 May 2023 01:11:48 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000046-impress-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/f9b1f416aebb1e950d0863c71febd881f2e331b3/comments",
+"description":"　全世界のスーパーコンピュータ演算能力ランキング「TOP500」の第61回目の結果が発表された。1位は引き続きオークリッジ国立研究所の「Frontier」で、HPLのスコアは2022年11月の1.02"
+},
+{
+"title":"レゴによる「パックマン」筐体、6月に発売(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/173463e46011aff7f0861a74c60157ddd6fad0c4?source=rss",
+"pubDate":"Tue, 23 May 2023 01:07:47 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000044-impress-000-1-view.jpg?pri=l&w=450&h=300&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/173463e46011aff7f0861a74c60157ddd6fad0c4/comments",
+"description":"　株式会社バンダイナムコエンターテインメントは、1980年代の「パックマン」のアーケード筐体を再現した大人向け組み立てセット「レゴ アイコンゲームセンターマシン パックマン」をレゴストアおよびレゴ公式"
+},
+{
+"title":"ダイヤルノブを備えた75%キーボードがプリンストンから、キースイッチの交換にも対応(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/0c66a8624404b65cc8a6f21bfa118dea71d663e5?source=rss",
+"pubDate":"Tue, 23 May 2023 01:05:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000043-impress-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/0c66a8624404b65cc8a6f21bfa118dea71d663e5/comments",
+"description":"　プリンストンの75%キーボードが「UP-MKGA75」が発売された。キー配列の違いで日本語配列（UP-MKGA75-J）と英語配列（UP-MKGA75-A）の2種類が入荷している。 　店頭価格はい"
+},
+{
+"title":"あの最強検索ツールをWindowsのタスクバーに組み込む「EverythingToolbar」がv1.1に(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/1561eab5da8ff0f70cfc3d8732086b63b4e6c1b2?source=rss",
+"pubDate":"Tue, 23 May 2023 01:05:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000042-impress-000-1-view.jpg?pri=l&w=450&h=360&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/1561eab5da8ff0f70cfc3d8732086b63b4e6c1b2/comments",
+"description":"　高速ファイル検索ツール「Everything」をタスクバーへ組み込む「EverythingToolbar」が5月20日（日本時間）、v1.1へとアップデートされた。今年1月以来のアップデートで、細部"
+},
+{
+"title":"関西電力、大規模データセンターで新会社　10年で1兆円以上投資(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/2372058b983f0dde57ca165aef6700032dd44b81?source=rss",
+"pubDate":"Tue, 23 May 2023 01:00:40 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000040-impress-000-1-view.jpg?pri=l&w=450&h=299&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/2372058b983f0dde57ca165aef6700032dd44b81/comments",
+"description":"関西電力が大規模データセンター事業に参入する。米国のデータセンター開発・運用事業者であるCyrusOne(サイラスワン)と関西電力は、「関西電力サイラスワン株式会社」を設立するための株主間契約書を締結"
+},
+{
+"title":"PRIMARE、最大1,500W出力の8chパワーアンプ「A35.8」(PHILE WEB)",
+"link":"https://news.yahoo.co.jp/articles/c6c7eb3f7024d4db98341b19899ed0e7b69613be?source=rss",
+"pubDate":"Tue, 23 May 2023 01:00:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00118312-phileweb-000-2-view.jpg?pri=l&w=450&h=301&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/c6c7eb3f7024d4db98341b19899ed0e7b69613be/comments",
+"description":"ナスペックは、同社取り扱いブランド・PRIMARE（プライマー）から、新パワーアンプ「A35.8」を5月26日（金）より発売する。価格は990,000円（税込）。カラーはBLK（ブラック）/TAN（チ"
+},
+{
+"title":"「イエローハット」で楽天ポイントをためる・使う、690店舗で順次利用可能に(BCN)",
+"link":"https://news.yahoo.co.jp/articles/e5c9bf1bc641e53c521ee1630a91c237094b4aac?source=rss",
+"pubDate":"Tue, 23 May 2023 01:00:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00330931-bcn-000-5-view.jpg?exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/e5c9bf1bc641e53c521ee1630a91c237094b4aac/comments",
+"description":"　イエローハットと楽天ペイメントは5月19日に、共通ポイントサービス「楽天ポイントカード」において提携したことを発表した。同提携によって、2023年秋頃から「イエローハット」店舗にて、「楽天ポイントカ"
+},
+{
+"title":"フォーティネット、クラウドコンサルやマネージドサービスを国内提供(ZDNET Japan)",
+"link":"https://news.yahoo.co.jp/articles/e2bec52bd5ad9cc60851f64c8ae3f2d4be7be436?source=rss",
+"pubDate":"Tue, 23 May 2023 01:00:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-35204165-zdnet-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/e2bec52bd5ad9cc60851f64c8ae3f2d4be7be436/comments",
+"description":"　フォーティネットジャパンは5月19日、クラウドセキュリティの最新機能やサービスについて記者説明会を開催した。グローバル調査の結果にも触れながら従量課金サービスやクラウドコンサルティングサービス、マネ"
+},
+{
+"title":"『アバター : ウェイ・オブ・ウォーター』4K UHDが6/30発売。世界歴代興行収入1位の前作も4K UHD化(PHILE WEB)",
+"link":"https://news.yahoo.co.jp/articles/f51baed3638602dd7a5651b32b04606d7d8498a1?source=rss",
+"pubDate":"Tue, 23 May 2023 01:00:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00118314-phileweb-000-1-view.jpg?pri=l&w=450&h=300&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/f51baed3638602dd7a5651b32b04606d7d8498a1/comments",
+"description":"ウォルト・ディズニー・ジャパンは、2022年劇場公開作『アバター : ウェイ・オブ・ウォーター』の＜4K UHD BD＞、および＜ブルーレイ＋DVDセット＞の2種類を6月30日（水）に発売する。価格は"
+},
+{
+"title":"「Bing」のAIチャット、最新アップデートでチャット履歴が追加(CNET Japan)",
+"link":"https://news.yahoo.co.jp/articles/ac617ad718b8b5f797116cf8b54106c82b8b5ea2?source=rss",
+"pubDate":"Tue, 23 May 2023 00:56:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-35204162-cnetj-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/ac617ad718b8b5f797116cf8b54106c82b8b5ea2/comments",
+"description":"　Microsoftはこのところ、「Bing」の人工知能（AI）チャットを立て続けにアップデートしているが、米国時間5月19日にも新たな機能の提供が開始された。今回のアップデートには、エクスポートボタ"
+},
+{
+"title":"決済処理を“紙とペンと金庫”からキャッシュレス決済「Square」へ　英国の理容店が実感したメリットとは？(TechTargetジャパン)",
+"link":"https://news.yahoo.co.jp/articles/ba8584a5f7c3df07c246e9d4534a2e41e213105d?source=rss",
+"pubDate":"Tue, 23 May 2023 00:55:06 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=450&h=450&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/ba8584a5f7c3df07c246e9d4534a2e41e213105d/comments",
+"description":"　英国の理容店Wicks Barbershopは、新型コロナウイルス感染症（COVID-19）のパンデミック（世界的大流行）の中でも顧客サービスのデジタル化を進め、自社の存在感を強めている。そのために"
+},
+{
+"title":"学校と民間教育のスタディログ連携、スタディプラスが総務省調査のレポートを発表(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/26194fde0e511c926394681987d44fc574f3c964?source=rss",
+"pubDate":"Tue, 23 May 2023 00:55:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000036-impress-000-1-view.jpg?pri=l&w=450&h=210&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/26194fde0e511c926394681987d44fc574f3c964/comments",
+"description":"　スタディプラス株式会社は、総務省の令和4年度「教育分野における情報信託機能の活用に係る調査」の成果報告レポートをまとめたとして内容を発表した。総務省が学外教育データの標準化を目指すなか、学内・学外の"
+},
+{
+"title":"東工大、スパコン「TSUBAME4.0」が2024年春に稼働(EE Times Japan)",
+"link":"https://news.yahoo.co.jp/articles/113cb996f45c196f063107cd3464911889f81c8a?source=rss",
+"pubDate":"Tue, 23 May 2023 00:41:31 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000061-it_eetimes-000-1-view.jpg?pri=l&w=450&h=221&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/113cb996f45c196f063107cd3464911889f81c8a/comments",
+"description":"現行機に比べ性能は、倍精度理論演算が約5.5倍、半精度で約20倍 　東京工業大学学術国際情報センター（以下、GSIC）は2023年5月、2024年春の稼働に向けて次世代スーパーコンピュータ「TSUB"
+},
+{
+"title":"東工大、富士通など4者、スパコン「富岳」で大規模言語モデル分散並列学習手法を開発(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/30a494fdfc47e3ba5edde3147a3b225ba961a2a5?source=rss",
+"pubDate":"Tue, 23 May 2023 00:30:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000034-impress-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/30a494fdfc47e3ba5edde3147a3b225ba961a2a5/comments",
+"description":"　国立大学法人東京工業大学、国立大学法人東北大学、富士通株式会社、国立研究開発法人理化学研究所の4者は22日、スーパーコンピューター「富岳」の政策対応枠において、大規模言語モデル（LLM：Large "
+},
+{
+"title":"中国、重要情報インフラでのマイクロン製品調達を禁止(CNET Japan)",
+"link":"https://news.yahoo.co.jp/articles/89d467d67fa05f52b6cab96a20854f9192823afd?source=rss",
+"pubDate":"Tue, 23 May 2023 00:21:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-35204160-cnetj-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/89d467d67fa05f52b6cab96a20854f9192823afd/comments",
+"description":"　中国は、重要情報インフラストラクチャー（CII）の運営者が米国のチップメーカーMicron Technologyの製品を購入することを禁止した。深刻なセキュリティ上のリスクを理由として挙げている。 "
+},
+{
+"title":"OpenAIのアルトマンCEO、“スーパーインテリジェンス”の国際規制機関立ち上げを提唱(ITmedia NEWS)",
+"link":"https://news.yahoo.co.jp/articles/80e3ea9a6bb581d0df931521af677508aa751f8e?source=rss",
+"pubDate":"Tue, 23 May 2023 00:16:08 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000060-zdn_n-000-1-view.jpg?pri=l&w=450&h=349&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/80e3ea9a6bb581d0df931521af677508aa751f8e/comments",
+"description":"　米OpenAIは5月22日（現地時間）、「スーパーインテリジェンスのガバナンス」というタイトルの公式ブログを公開した。サム・アルトマンCEO、グレッグ・ブロックマン社長、チーフサイエンティストのイリ"
+},
+{
+"title":"クレオ、企業の分散購買業務を支援する購買統制クラウドサービス「トラミル」(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/36592a776e3eadf81cb2979c65336bf9bca933d6?source=rss",
+"pubDate":"Tue, 23 May 2023 00:15:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000033-impress-000-1-view.jpg?pri=l&w=450&h=209&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/36592a776e3eadf81cb2979c65336bf9bca933d6/comments",
+"description":"　株式会社クレオは22日、全社員が適切かつ効率的に購買業務を行うための購買統制クラウドサービス「トラミル」を、同日より提供開始すると発表した。企業間取引の電子化（ペーパーレス化）を促進するとともに、法"
+},
+{
+"title":"クラリス、「FileMaker 2023」を国内提供--リリース番号が発売年をベースに(ZDNET Japan)",
+"link":"https://news.yahoo.co.jp/articles/2269d239f60daa21d0ecca2252d86dd216f4e429?source=rss",
+"pubDate":"Tue, 23 May 2023 00:05:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=450&h=450&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/2269d239f60daa21d0ecca2252d86dd216f4e429/comments",
+"description":"　Claris Internationalは5月23日、ローコード開発プラットフォームの最新版「Claris FileMaker 2023」の国内提供を開始した。米国などの日本以外の国と地域では4月2"
+},
+{
+"title":"PC不要でクローン機能も使える外付けデュアルM.2 SSDケースがラトックシステムから(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/d9d5fd21d170a7ae3c1bfa278dc4efc65e0e0a7c?source=rss",
+"pubDate":"Tue, 23 May 2023 00:05:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000032-impress-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/d9d5fd21d170a7ae3c1bfa278dc4efc65e0e0a7c/comments",
+"description":"　PC不要のクローン機能を搭載したラトックシステムのUSB 3.2 Gen2x2 Type-C接続M.2 SSDケース「USB3.2 Gen2x2 M.2 SSDケース(クローン機能搭載・NVMe 2"
+},
+{
+"title":"アディダスが自社ECなどにショップスタッフのコーディネート投稿機能を実装、ZOZOの専用ツール「FAANS」を導入(ネットショップ担当者フォーラム)",
+"link":"https://news.yahoo.co.jp/articles/1f579d30cb020aff209c429a3d0bab68c1364a55?source=rss",
+"pubDate":"Tue, 23 May 2023 00:01:03 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000003-netshop-000-1-view.jpg?exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/1f579d30cb020aff209c429a3d0bab68c1364a55/comments",
+"description":"アディダス ジャパンは、ZOZOが提供するショップスタッフの販売サポートツール「FAANS」を導入し、ブランド自社ECサイトと連携した。 アディダス ジャパンのスタッフは、「FAANS」を通じてブラ"
+},
+{
+"title":"Amazon のDSP、Cookie不使用のターゲティング力をアピール(DIGIDAY［日本版］)",
+"link":"https://news.yahoo.co.jp/articles/4783e00938bb797ee2e513b71c503559387a4729?source=rss",
+"pubDate":"Tue, 23 May 2023 00:01:01 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=450&h=450&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/4783e00938bb797ee2e513b71c503559387a4729/comments",
+"description":"念のために書くが、サードパーティーCookieは間もなく、世界のインターネット網から姿を消す。そしてそれは、中核をなす、広告収入で営む、既存ビジネスモデルの根幹を揺さぶることになる。 根幹を揺さぶる"
+},
+{
+"title":"リコー、A3モノクロプリンター「RICOH IP 6530」「RICOH P 6520/P 6510/P 6500」を発売(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/a60f9e4dcd5cc0a166cf33f3dbd1340ae5150c44?source=rss",
+"pubDate":"Tue, 23 May 2023 00:00:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000031-impress-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/a60f9e4dcd5cc0a166cf33f3dbd1340ae5150c44/comments",
+"description":"　株式会社リコーは22日、A3モノクロプリンター「RICOH IP 6530」「RICOH P 6520」「RICOH P 6510」「RICOH P 6500」の4機種7モデルを、5月29日に発売す"
+},
+{
+"title":"開くとトレイになるペンケース「tray tray」 サンスター文具(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/04c98a9d42f7143f05e68ccab15f6cad87b9a920?source=rss",
+"pubDate":"Tue, 23 May 2023 00:00:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000029-impress-000-1-view.jpg?pri=l&w=450&h=420&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/04c98a9d42f7143f05e68ccab15f6cad87b9a920/comments",
+"description":"サンスター文具は、マグネットでパカっと開く開閉ギミックを採用し、開くとペントレイになるペンケース「tray tray(トレイトレイ)」を、5月下旬に発売する。価格は1,540円。 ペンの出し入れがし"
+},
+{
+"title":"Meta、EU当局から約1800億円の制裁金--過去最高額(CNET Japan)",
+"link":"https://news.yahoo.co.jp/articles/55d2dd1157ae29f69edcac6dcfb55315d53bc1e0?source=rss",
+"pubDate":"Mon, 22 May 2023 23:50:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-35204158-cnetj-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/55d2dd1157ae29f69edcac6dcfb55315d53bc1e0/comments",
+"description":"　欧州連合（EU）のデータ規制当局はMetaに対し、約12億ユーロ（約1800億円）の制裁金を科し、EU域内のユーザーデータの米国への移管を10月までに停止するよう命じた。この制裁金は、2021年に一"
+},
+{
+"title":"スクロール360、倉庫管理システムの「L-Spark」と「ECコネクター」の標準連携を開始(ネットショップ担当者フォーラム)",
+"link":"https://news.yahoo.co.jp/articles/2915e0cb0367759e71748ecff5057e4f41144c9e?source=rss",
+"pubDate":"Mon, 22 May 2023 23:31:03 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000002-netshop-000-1-view.jpg?pri=l&w=450&h=204&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/2915e0cb0367759e71748ecff5057e4f41144c9e/comments",
+"description":"スクロール360は、物流代行サービスで提供している倉庫管理システム「L-Spark」と、久のデータ連携クラウドサービス「ECコネクター」の標準連携を開始した。 「L-Spark」は、スクロール36"
+},
+{
+"title":"シヤチハタの「Shachihata Cloud」、既存の押印プロセスをそのままデジタル化(ZDNET Japan)",
+"link":"https://news.yahoo.co.jp/articles/c8afb39965c6c24eb417ab271a422e301a791dcf?source=rss",
+"pubDate":"Mon, 22 May 2023 23:30:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-35204159-zdnet-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/c8afb39965c6c24eb417ab271a422e301a791dcf/comments",
+"description":"　シヤチハタは5月22日、電子決裁サービス「Shachihata Cloud」に関する記者説明会を開催した。 　Shachihata Cloudは、旧サービスの「パソコン決裁Cloud」を改名して2"
+},
+{
+"title":"スマホの充電が年1回に？--「光電融合」でネットワークをゲームチェンジ、NTTが「IOWN」で目指すもの(CNET Japan)",
+"link":"https://news.yahoo.co.jp/articles/a0d26b57669024018ffdba078f048dfe76b10fb9?source=rss",
+"pubDate":"Mon, 22 May 2023 23:30:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-35204147-cnetj-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/a0d26b57669024018ffdba078f048dfe76b10fb9/comments",
+"description":"　NTTが2019年に提唱した新しいネットワーク基盤の構想「IOWN（Innovative Optical and Wireless Network）」への注目が、ここ最近急速に高まりつつある。3月に"
+},
+{
+"title":"英文作成サポートGrammarlyの「ChatGPTとの上手な付き合い方」(Forbes JAPAN)",
+"link":"https://news.yahoo.co.jp/articles/92b1ae3306e75135b43d857292faa7d687b07ff3?source=rss",
+"pubDate":"Mon, 22 May 2023 23:30:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00063316-forbes-000-1-view.jpg?pri=l&w=450&h=300&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/92b1ae3306e75135b43d857292faa7d687b07ff3/comments",
+"description":"「このテクノロジーには、私たちの世界や生活を根底から覆し、私たち自身の能力を置き換えるような、あらかじめ与えられた権利のようなものはないのです。テクノロジーには、私たちを置き換えるのではなく、私たちを"
+},
+{
+"title":"繰り返し充放電が可能な全固体空気二次電池を開発(EE Times Japan)",
+"link":"https://news.yahoo.co.jp/articles/b6a3371e7d4cdebca26fcd42d264e9c2e354d930?source=rss",
+"pubDate":"Mon, 22 May 2023 23:29:08 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000059-it_eetimes-000-1-view.jpg?pri=l&w=450&h=205&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/b6a3371e7d4cdebca26fcd42d264e9c2e354d930/comments",
+"description":"放電速度15Cの発電実験で、30回繰り返し充放電を確認 　山梨大学クリーンエネルギー研究センター／早稲田大学理工学術院の宮武健治教授と早稲田大学理工学術院の小柳津研一教授らによる研究グループは202"
+},
+{
+"title":"EUV適用1γ DRAM、広島工場では2026年に生産開始(EE Times Japan)",
+"link":"https://news.yahoo.co.jp/articles/8593779e727ea0c7da7d22ee75e8dad0c48a049e?source=rss",
+"pubDate":"Mon, 22 May 2023 23:28:45 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000058-it_eetimes-000-1-view.jpg?pri=l&w=450&h=309&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/8593779e727ea0c7da7d22ee75e8dad0c48a049e/comments",
+"description":"　Micron Technology（以下、Micron）は2023年5月22日、同社の広島工場（広島県東広島市）で、1γ（ガンマ）ノードのDRAM製造に関する記者会見を開催した。同社は5月18日、E"
+},
+{
+"title":"工場出荷前に数百万台のスマホがすでにマルウェアに感染　Trend Microが発表　安価なAndroid端末が対象(ITmedia NEWS)",
+"link":"https://news.yahoo.co.jp/articles/fcb3eda3d7d7c38a8bbd8595cc4b01a6078a8829?source=rss",
+"pubDate":"Mon, 22 May 2023 23:10:17 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000037-zdn_n-000-1-view.jpg?pri=l&w=450&h=324&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/fcb3eda3d7d7c38a8bbd8595cc4b01a6078a8829/comments",
+"description":"　「舞台裏：犯罪企業が数百万台のモバイル機器を事前に感染させる方法」と題した講演を、Trend Microの研究者らが5月に開催したセキュリティイベント「Black Hat Asia 2023」で発表"
+},
+{
+"title":"スマホの充電器から“人間のような音声”を発声、音声アシスタントにこっそり入力するサイバー攻撃(ITmedia NEWS)",
+"link":"https://news.yahoo.co.jp/articles/04dfbec0c69086b313532c9668a1de76daa1bca1?source=rss",
+"pubDate":"Mon, 22 May 2023 23:10:11 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000036-zdn_n-000-1-view.jpg?pri=l&w=450&h=287&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/04dfbec0c69086b313532c9668a1de76daa1bca1/comments",
+"description":"　中国の上海交通大学と浙江大学の研究者らが発表した論文「Remote Attacks on Speech Recognition Systems Using Sound from Power Supp"
+},
+{
+"title":"コロナ禍の3年で大きく変化したのは「出かける場所」、物価高での節約志向も影響？【CCCMK総研調べ】(Web担当者Forum)",
+"link":"https://news.yahoo.co.jp/articles/cdb82800967610c4adc67a387a642828a90a6995?source=rss",
+"pubDate":"Mon, 22 May 2023 23:06:04 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000006-webtan-000-1-view.jpg?pri=l&w=450&h=300&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/cdb82800967610c4adc67a387a642828a90a6995/comments",
+"description":"CCCマーケティング総合研究所は、この3年の生活の中で「変わったこと、変わらないこと」に関する調査結果を発表した。男女16～79歳のT会員2,582人が回答している。 　"
+},
+{
+"title":"「Android 14」に“アプリ単位”のスクリーン録画が搭載へ(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/31e64895df608b3228a9e84f9904d75de4defc74?source=rss",
+"pubDate":"Mon, 22 May 2023 23:05:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000028-impress-000-1-view.jpg?pri=l&w=450&h=360&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/31e64895df608b3228a9e84f9904d75de4defc74/comments",
+"description":"　「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。 　現在ベータテスト中の「Android 14」に「アプリ単位でのスクリーン録画」機能が導入されるそうです。Andr"
+},
+{
+"title":"M&Aを7社実行済み、AnyMindのアジア戦略「経営人材の獲得で地域ナンバーワン目指す」(DIAMOND SIGNAL)",
+"link":"https://news.yahoo.co.jp/articles/e903a06cb98ab79d26f92d377efef1fc227de197?source=rss",
+"pubDate":"Mon, 22 May 2023 23:01:59 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00001662-dsignal-000-1-view.jpg?pri=l&w=450&h=300&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/e903a06cb98ab79d26f92d377efef1fc227de197/comments",
+"description":"M＆A（合併と買収）と資金調達のプラットフォームを運営するスタートアップ・M＆Aクラウド代表取締役CEOの及川厚博氏が、M＆Aを経験したスタートアップ、事業会社、VCへ「M＆Aは『グロース』と『ハピネ"
+},
+{
+"title":"情報セキュリティマネジメント試験 8歳の小学3年生合格、最年少記録6年ぶり更新(ScanNetSecurity)",
+"link":"https://news.yahoo.co.jp/articles/4bbacfb221ee84f128dcd4b71ee08b8cce224d1e?source=rss",
+"pubDate":"Mon, 22 May 2023 23:00:08 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000002-scan-000-1-view.jpg?pri=l&w=450&h=63&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/4bbacfb221ee84f128dcd4b71ee08b8cce224d1e/comments",
+"description":"　独立行政法人 情報処理推進機構（IPA）は5月17日、基本情報技術者試験と情報セキュリティマネジメント試験の令和5年4月度合格者を発表した。前者の合格率は56.3％、後者は76.2％となっている。 "
+},
+{
+"title":"テーマは「次の30年」 Interop Tokyo 2023、幕張メッセで 6/14-16 開催(ScanNetSecurity)",
+"link":"https://news.yahoo.co.jp/articles/df14e304214b5b5be95f31d472cfa594b18aae90?source=rss",
+"pubDate":"Mon, 22 May 2023 23:00:03 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000001-scan-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/df14e304214b5b5be95f31d472cfa594b18aae90/comments",
+"description":"　株式会社ナノオプト・メディアは5月19日、開催30回目を迎えるIT総合イベント「 Interop Tokyo 2023 」を6月14日から6月16日に幕張メッセで開催すると発表した。 　Inter"
+},
+{
+"title":"グラフ作りの完成度を上げるスキルを解説、『できるExcelグラフ』が発売(Impress Watch)",
+"link":"https://news.yahoo.co.jp/articles/a3c07ddb741743df716409afff3a682f63e451a2?source=rss",
+"pubDate":"Mon, 22 May 2023 23:00:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000027-impress-000-1-view.jpg?pri=l&w=352&h=450&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/a3c07ddb741743df716409afff3a682f63e451a2/comments",
+"description":"　（株）インプレスは5月23日、書籍『できるExcelグラフ』（きたみ あきこ、できるシリーズ編集部 著）を発売した。価格は2,178円。 　本書はビジネスシーンにおいて“伝わるグラフ”を作成するた"
+},
+{
+"title":"Teams向けChatGPT活用対話APIサーバー「ChatBrid for Teams」受注開始(アスキー)",
+"link":"https://news.yahoo.co.jp/articles/dd85b7cc620db8f72ad42c92841ca20a5c8dddf9?source=rss",
+"pubDate":"Mon, 22 May 2023 23:00:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000002-ascii-000-1-view.png?fmt=jpeg&q=85&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/dd85b7cc620db8f72ad42c92841ca20a5c8dddf9/comments",
+"description":"メタデータ株式会社と株式会社レザボア・コンサルティングは2023年5月2日、共同開発した「Microsoft Teams」向け対話APIサーバー「ChatBrid for Teams」の受注を開始。社"
+},
+{
+"title":"UQ mobile、6月から3つの新プラン--20GBと10分の通話をセットにした「コミコミ」など(CNET Japan)",
+"link":"https://news.yahoo.co.jp/articles/3f47a4b7bfcacaa718aae14ee45931916639d5a9?source=rss",
+"pubDate":"Mon, 22 May 2023 23:00:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-35204138-cnetj-000-1-view.jpg?pri=l&w=450&h=337&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/3f47a4b7bfcacaa718aae14ee45931916639d5a9/comments",
+"description":"　KDDIと沖縄セルラー電話は5月22日、「UQ mobile」の新たな料金プランとして、6月1日から「コミコミプラン」「トクトクプラン」「ミニミニプラン」の提供を開始すると発表した。 20GBと1"
+},
+{
+"title":"Metaにアイルランドが12億ユーロ（約1800億円）の罰金　GDPR違反で(ITmedia NEWS)",
+"link":"https://news.yahoo.co.jp/articles/762cf1b5283bee5a7562fe4cf8e9d6ebc7e9003a?source=rss",
+"pubDate":"Mon, 22 May 2023 22:51:44 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00000057-zdn_n-000-1-view.jpg?pri=l&w=450&h=234&exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/762cf1b5283bee5a7562fe4cf8e9d6ebc7e9003a/comments",
+"description":"　アイルランドのデータ保護委員会（DPC）は5月22日（現地時間）、米Metaに対し、欧州連合（EU）の一般データ保護規則（GDPR）に違反したとして合計12億ユーロ（約1800億円）の罰金を科すと発"
+},
+{
+"title":"JBLのサウンドバーが23週ぶり首位、今売れてるホームシアターシステムTOP10　2023/5/23(BCN)",
+"link":"https://news.yahoo.co.jp/articles/71faaef51b6c0ccedb5196c6ea58d5380cdc53a2?source=rss",
+"pubDate":"Mon, 22 May 2023 22:30:00 GMT",
+"image":"https://newsatcl-pctr.c.yimg.jp/t/amd-img/20230523-00330955-bcn-000-5-view.jpg?exp=10800",
+"comments":"https://news.yahoo.co.jp/articles/71faaef51b6c0ccedb5196c6ea58d5380cdc53a2/comments",
+"description":"　「BCNランキング」2023年5月8日から14日の日次集計データによると、ホームシアターシステムの実売台数ランキングは以下の通りとなった。 1位　JBL Bar 5.0 MultiBeam JBL"
+}
+]
+}
+}
