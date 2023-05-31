@@ -5,10 +5,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="#FFCC88"
+
     tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:gravity="center"
+        android:text="TEST"
+        android:textSize="34sp" />
+    <TextView
+        android:id="@+id/textTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:text="yyyy/mm/dd/hh:mma 更新"
+        />
 
     <ListView
         android:id="@+id/resultList"
+        android:divider="@drawable/line_himo01_s04"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </LinearLayout>
