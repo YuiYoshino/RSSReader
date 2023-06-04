@@ -3,13 +3,18 @@ package jp.ac.cm0107.rssreader;
 import android.os.Handler;
 import android.util.Log;
 import android.widget.ListView;
+import android.widget.TextView;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.net.URL;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
+import java.util.Locale;
 
 
 import javax.net.ssl.HttpsURLConnection;
@@ -19,6 +24,7 @@ public class AsyncHttpRequest implements Runnable {
     private MainActivity mainActivity;
     private String urlStr;
     private String resStr;
+    static SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy/MM/dd(EE) HH:mm:ss");
 
     public AsyncHttpRequest(Handler handler, MainActivity mainActivity, String urlStr) {
         this.handler = handler;
@@ -74,13 +80,26 @@ public class AsyncHttpRequest implements Runnable {
 
     private void onPostExecute() {
         Log.i("RssReader", "onPostExecute start...");
-
         // 非同期処理後に実行する処理を記述する
         ArrayList<RssItem> ary = JsonHelper.parseJson(resStr);
         for (RssItem tmp : ary) {
             mainActivity.adapter.add(tmp);
         }
         ListView list = mainActivity.findViewById(R.id.resultList);
+
         list.setAdapter(mainActivity.adapter);
+        TextView txt = mainActivity.findViewById(R.id.textTime);
+        String str = JsonHelper.pubDate;
+
+        SimpleDateFormat sdf =new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss", Locale.ENGLISH);
+        try {
+            Date date = sdf.parse(str);
+            String dateToString = simpleDateFormat.format(date);
+            txt.setText(dateToString);
+        } catch (ParseException e) {
+            throw new RuntimeException(e);
+        }
+
+
     }
 }

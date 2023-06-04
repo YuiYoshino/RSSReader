@@ -2,6 +2,25 @@ package jp.ac.cm0107.rssreader;
 
 public class RssItem {
     private String title;
+    private String link;
+    private String pubDate;
+    private String Date;
+
+    public String getDate() {
+        return Date;
+    }
+
+    public void setDate(String date) {
+        Date = date;
+    }
+
+    public String getPubDate() {
+        return pubDate;
+    }
+
+    public void setPubDate(String pubDate) {
+        this.pubDate = pubDate;
+    }
 
     public String getTitle() {
         return title;
@@ -19,5 +38,5 @@ public class RssItem {
         this.link = link;
     }
 
-    private String link;
+
 }
