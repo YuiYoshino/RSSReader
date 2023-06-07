@@ -16,10 +16,13 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.Window;
+import android.view.WindowManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
+import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -27,8 +30,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Date;
+import java.util.Locale;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
@@ -38,17 +44,46 @@ public class MainActivity extends AppCompatActivity {
     private Handler handler;
     String topics;
 
+    static SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy/MM/dd(EE) HH:mm:ss");
+    String [] spnItemStr = {
+            "Sport","IT","Main"
+    };
+    String item  = spnItemStr[0] ;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        Button btnTOP = findViewById(R.id.TopPicksbtn);
-        Button bntIT = findViewById(R.id.ITbtn);
-        Button btnSPORT = findViewById(R.id.SPORTSbtn);
+        // ステータスバー非表示
+        getWindow().addFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
-        btnSPORT.setOnClickListener(new BtnEvent());
-        bntIT.setOnClickListener(new BtnEvent());
-        btnTOP.setOnClickListener(new BtnEvent());
+        // タイトルバー非表示
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+
+        setContentView(R.layout.activity_main);
+        Spinner spn = findViewById(R.id.spnCategory);
+
+        ArrayAdapter<String> adapterSpn = new ArrayAdapter<>(
+                this, androidx.constraintlayout.widget.R.layout.support_simple_spinner_dropdown_item,spnItemStr
+        );
+        adapterSpn.setDropDownViewResource(androidx.appcompat.R.layout.support_simple_spinner_dropdown_item);
+        spn.setAdapter(adapterSpn);
+        spn.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> adapterView, View view, int i, long l) {
+                Spinner spinner = (Spinner) adapterView;
+                item = (String) spinner.getSelectedItem();
+                new selectEvent(item);
+
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> adapterView) {
+
+            }
+        });
+
+
+
 //        TextView txtTime = findViewById(R.id.textTime);
 //        Calendar cl = Calendar.getInstance();
 //        SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd(EEEE)HH:mm:ss");
@@ -68,6 +103,7 @@ public class MainActivity extends AppCompatActivity {
 
         ListView list = findViewById(R.id.resultList);
         list.setAdapter(adapter);
+        /*
         list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
@@ -78,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
                 intent.putExtra("web",uri);
                 startActivity(intent);
             }
-        });
+        });*/
 /*
         Uri.Builder uriBuilder = new Uri.Builder();
         uriBuilder.scheme("https");
@@ -92,6 +128,13 @@ public class MainActivity extends AppCompatActivity {
         AsyncHttpRequest asyncHttpRequest =
                 new AsyncHttpRequest(handler, MainActivity.this, uriBuilder.toString() );
         executorService.submit(asyncHttpRequest);*/
+        Button reload = findViewById(R.id.reloadBtn);
+        reload.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                new selectEvent(item);
+            }
+        });
     }
     class RowModelAdapter extends ArrayAdapter {
 
@@ -115,7 +158,27 @@ public class MainActivity extends AppCompatActivity {
                 }
                 TextView txtId = convertView.findViewById(R.id.txtRowLink);
                 if(txtId != null){
-                    txtId.setText(String.valueOf(item.getPubDate()));
+                    SimpleDateFormat sdf =new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss", Locale.ENGLISH);
+                    String str = item.getPubDate();
+                    try {
+                        Date date = sdf.parse(str);
+                        String dateToString = simpleDateFormat.format(date);
+                        txtId.setText(dateToString);
+                    } catch (ParseException e) {
+                        throw new RuntimeException(e);
+                    }
+                }
+                Button btn = convertView.findViewById(R.id.btnLink);
+                if (btn != null){
+                    btn.setOnClickListener(new View.OnClickListener() {
+                        @Override
+                        public void onClick(View view) {
+                            Uri uri = Uri.parse((item.getLink()));
+                            Intent intent = new Intent(MainActivity.this,WebActivity.class);
+                            intent.putExtra("web",uri);
+                            startActivity(intent);
+                        }
+                    });
                 }
             }
             return convertView;
@@ -145,16 +208,15 @@ public class MainActivity extends AppCompatActivity {
         return json;
     }
 
-    private class BtnEvent implements View.OnClickListener {
-        @Override
-        public void onClick(View view) {
-            if (view.getId()==R.id.SPORTSbtn){
+    private class selectEvent  {
+        public selectEvent(String item) {
+            if (item.equals(spnItemStr[0])){
                 topics = "categories/sports";
                 new UriBuild();
-            } else if (view.getId()==R.id.ITbtn) {
+            } else if (item.equals(spnItemStr[1])) {
                 topics = "categories/it";
                 new UriBuild();
-            } else if (view.getId()==R.id.TopPicksbtn){
+            } else if (item.equals(spnItemStr[2])){
                 topics = "topics/top-picks";
                 new UriBuild();
             }

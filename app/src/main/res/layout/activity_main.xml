@@ -15,41 +15,37 @@
         android:layout_height="wrap_content"
         android:fontFamily="casual"
         android:gravity="center"
-        android:text="TEST"
+        android:text="にゅーす！"
         android:textSize="34sp" />
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="48dp"
         android:orientation="horizontal">
 
-        <Button
-            android:id="@+id/SPORTSbtn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Button" />
+        <Spinner
+            android:id="@+id/spnCategory"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
 
         <Button
-            android:id="@+id/TopPicksbtn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Button" />
-
-        <Button
-            android:id="@+id/ITbtn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Button" />
-
+            android:id="@+id/reloadBtn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:backgroundTint="#8094D293"
+            android:drawableEnd="@drawable/baseline_cached_24"
+            android:drawableRight="@drawable/baseline_cached_24"
+            style="?android:attr/borderlessButtonStyle"
+            android:text="Reload" />
     </LinearLayout>
 
     <TextView
         android:id="@+id/textTime"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:gravity="right"
-        android:text="yyyy/mm/dd/hh:mma 更新"
-        />
+        android:layout_height="32dp"
+        android:gravity="right" />
 
     <ListView
         android:id="@+id/resultList"

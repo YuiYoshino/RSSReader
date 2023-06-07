@@ -88,6 +88,7 @@ public class AsyncHttpRequest implements Runnable {
         ListView list = mainActivity.findViewById(R.id.resultList);
 
         list.setAdapter(mainActivity.adapter);
+
         TextView txt = mainActivity.findViewById(R.id.textTime);
         String str = JsonHelper.pubDate;
 
